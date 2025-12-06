@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+.venv
+
+# Python
+*.py[cod]
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Node (Tailwind)
+node_modules/
+npm-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
